@@ -12,7 +12,7 @@ body {
 }
 #subheader {
     font-family: 'Josefin Sans', sans-serif;
-    font-weight: 200;
+    font-weight: 300;
     font-size: 100;
     text-align: center;
     color:"white";
@@ -21,7 +21,8 @@ body {
 #about {
     font-family: 'Josefin Sans', sans-serif;
     font-weight: 200;
-    font-size: 80;
+    font-size: 50;
     text-align: center;
     color: "white";
+    margin-top: 200;
 }
